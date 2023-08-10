@@ -1,6 +1,6 @@
 # MERN eShop
 
-## Project description
+## Project Description
 
 ### Technology: 
 * React
