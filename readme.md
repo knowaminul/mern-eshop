@@ -34,4 +34,4 @@ user
 
 ```
 
-### Live link: https://merneshop.herokuapp.com/
+### Live link: https://mern-eshop-ju86.onrender.com/
